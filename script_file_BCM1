@@ -1,0 +1,13 @@
+#PBS -N BCM1
+#PBS -j oe
+#PBS -l nodes=1:ppn=8
+#PBS -l walltime=96:00:00
+#PBS -S /bin/ksh
+
+set -x
+
+cd $PBS_O_WORKDIR
+
+#
+./bin/BCM ./datasets/WeightedBipartiteGraph.1000.50.dat ./datasets/WeightedBipartiteGraph.1000.50_patterns.txt
+#
