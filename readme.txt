@@ -1,6 +1,6 @@
 BCM Program
 
-This program is used for paper "Mining the tissue-tissue gene co-expression network for tumor microenvironment study and biomarker prediction", Y. Xiang, J. Zhang, K. Huang, BMC Genomics, 14(Suppl 5), S4.
+This program is used for paper "Mining the tissue-tissue gene co-expression network for tumor microenvironment study and biomarker prediction", Y. Xiang, J. Zhang, K. Huang, BMC Genomics, 2013, 14(Suppl 5), S4. DOI: http://dx.doi.org/10.1186/1471-2164-14-S5-S4
 
 Software License Agreement: You may use or modify this computer program for research purposes, provided that you properly cite our paper in publication. This computer program is provided on an as is basis and there is no guarantee on the program nor additional support offered. Neither the author(s) nor their institute(s) is liable under any circumstances. This program archive (including this license agreement) may be updated without further notice.
 
